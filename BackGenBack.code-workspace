@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.defaultFoldingRangeProvider": "msjsdiag.vscode-react-native",
+		"workbench.preferredDarkColorTheme": "Palenight Operator",
+		"workbench.colorTheme": "Palenight (Mild Contrast)"
+	}
+}
